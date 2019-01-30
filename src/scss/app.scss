@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+//fonts
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600');
+@import "fonts/icomoon/style";
+
+//dependencies
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
+//variables
+@import "variables";
+
+//base
+@import "base/base",
+        "base/buttons",
+        "base/cards",
+        "base/typography";
+
+//base
+@import "components/header",
+        "components/navbar",
+        "components/footer";
+
+//Pages
+//@import "pages/home/jumbotron";
+
