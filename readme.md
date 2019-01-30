@@ -1,5 +1,5 @@
-#### Clean Boiler plate I use with
-#### Webpack, Sass, Bootstrap, Vue with live reloading
+## Simple Boiler 
+#### using Webpack, Sass, Bootstrap, Vue with live reloading
 
 ## Setup
 
