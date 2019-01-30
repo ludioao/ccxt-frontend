@@ -1,4 +1,4 @@
-## Simple Boiler 
+## Simple Boilerplate 
 #### using Webpack, Sass, Bootstrap, Vue with live reloading
 
 ## Setup
