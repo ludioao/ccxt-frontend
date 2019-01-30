@@ -3,7 +3,7 @@
 
 ## Setup
 
-Install dependencies
+#### Install dependencies
 
 $ npm install
 
