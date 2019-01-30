@@ -1,5 +1,5 @@
 ## Simple Boilerplate 
-#### using Webpack, Sass, Bootstrap, Vue with live reloading
+#### using Webpack, Sass, Bootstrap, Vue with live reloading and autocompile
 
 ## Setup
 
@@ -7,6 +7,6 @@
 
 $ npm install
 
-#### Run the local webpack-dev-server with livereload and autocompile on [http://localhost:8080/](http://localhost:8080/)
+#### Run the local webpack-dev-server on [http://localhost:8080/](http://localhost:8080/)
 
 $ npm run dev
