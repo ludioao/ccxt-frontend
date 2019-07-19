@@ -4,15 +4,13 @@ import './ui/common.js';
 
 import Vue from 'vue';
 
-/*
+
 Vue.component(
-    'library-listing',
-    require('./components/LibraryListing.vue').default
+    'opportunities-listing',
+    require('./components/OpportunitiesListing.vue').default
 );
 
 
 new Vue({
 	el: '#app',
 });
-
-*/

@@ -1,0 +1,24 @@
+{
+  "pairs": {
+    "btc_brl": "BTC/BRL",
+    "btc_eur": "BTC/EUR",
+    "btc_usd": "BTC/USD",
+    "btc_usdt": "BTC/USDT",
+    "dash_bnb": "DASH/BNB",
+    "dash_brl": "DASH/BRL",
+    "eth_brl": "ETH/BRL",
+    "eth_btc": "ETH/BTC",
+    "eth_doge": "ETH/DOGE",
+    "eth_eur": "ETH/EUR",
+    "eth_usd": "ETH/USD",
+    "eth_usdt": "ETH/USDT"
+  },
+  "exchanges": {
+    "mercadobitcoin": "Mercado Bitcoin",
+    "bitfinex": "Bitfinex",
+    "kraken": "Kraken",
+    "bittrex": "Bittrex",
+    "hitbtc": "HitBtc",
+    "yobit": "Yobit"
+  }
+}
